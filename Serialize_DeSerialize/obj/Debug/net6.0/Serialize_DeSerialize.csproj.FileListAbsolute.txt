@@ -1,0 +1,15 @@
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\bin\Debug\net6.0\Serialize_DeSerialize.exe
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\bin\Debug\net6.0\Serialize_DeSerialize.deps.json
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\bin\Debug\net6.0\Serialize_DeSerialize.runtimeconfig.json
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\bin\Debug\net6.0\Serialize_DeSerialize.dll
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\bin\Debug\net6.0\ref\Serialize_DeSerialize.dll
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\bin\Debug\net6.0\Serialize_DeSerialize.pdb
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\obj\Debug\net6.0\Serialize_DeSerialize.csproj.AssemblyReference.cache
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\obj\Debug\net6.0\Serialize_DeSerialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\obj\Debug\net6.0\Serialize_DeSerialize.AssemblyInfoInputs.cache
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\obj\Debug\net6.0\Serialize_DeSerialize.AssemblyInfo.cs
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\obj\Debug\net6.0\Serialize_DeSerialize.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\obj\Debug\net6.0\Serialize_DeSerialize.dll
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\obj\Debug\net6.0\ref\Serialize_DeSerialize.dll
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\obj\Debug\net6.0\Serialize_DeSerialize.pdb
+C:\Users\Johnny\Desktop\Serialize_DeSerialize\obj\Debug\net6.0\Serialize_DeSerialize.genruntimeconfig.cache

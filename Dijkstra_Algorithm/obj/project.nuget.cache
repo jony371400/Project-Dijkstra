@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KMlsQGCGdgDj5J47H19BWH3XwQu+fuAQOH03CvSmrY4Bv8IYR0OOu5aOOP771Mqwv7a9HpVa1mtxfCFRVEd7pA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johnny\\Desktop\\Dijkstra_Algorithm\\Dijkstra_Algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johnny\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

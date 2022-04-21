@@ -1,0 +1,17 @@
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\bin\Debug\net6.0\Dijkstra_Algorithm.exe
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\bin\Debug\net6.0\Dijkstra_Algorithm.deps.json
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\bin\Debug\net6.0\Dijkstra_Algorithm.runtimeconfig.json
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\bin\Debug\net6.0\Dijkstra_Algorithm.dll
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\bin\Debug\net6.0\ref\Dijkstra_Algorithm.dll
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\bin\Debug\net6.0\Dijkstra_Algorithm.pdb
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\obj\Debug\net6.0\Dijkstra_Algorithm.csproj.AssemblyReference.cache
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\obj\Debug\net6.0\Dijkstra_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\obj\Debug\net6.0\Dijkstra_Algorithm.AssemblyInfoInputs.cache
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\obj\Debug\net6.0\Dijkstra_Algorithm.AssemblyInfo.cs
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\obj\Debug\net6.0\Dijkstra_Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\obj\Debug\net6.0\Dijkstra_Algorithm.csproj.CopyComplete
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\obj\Debug\net6.0\Dijkstra_Algorithm.dll
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\obj\Debug\net6.0\ref\Dijkstra_Algorithm.dll
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\obj\Debug\net6.0\Dijkstra_Algorithm.pdb
+C:\Users\Johnny\Desktop\Dijkstra_Algorithm\obj\Debug\net6.0\Dijkstra_Algorithm.genruntimeconfig.cache
