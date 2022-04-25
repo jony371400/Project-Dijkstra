@@ -1,0 +1,17 @@
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\obj\Debug\net6.0\DeSerialize.csproj.AssemblyReference.cache
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\obj\Debug\net6.0\DeSerialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\obj\Debug\net6.0\DeSerialize.AssemblyInfoInputs.cache
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\obj\Debug\net6.0\DeSerialize.AssemblyInfo.cs
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\obj\Debug\net6.0\DeSerialize.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\bin\Debug\net6.0\DeSerialize.exe
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\bin\Debug\net6.0\DeSerialize.deps.json
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\bin\Debug\net6.0\DeSerialize.runtimeconfig.json
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\bin\Debug\net6.0\DeSerialize.dll
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\bin\Debug\net6.0\ref\DeSerialize.dll
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\bin\Debug\net6.0\DeSerialize.pdb
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\obj\Debug\net6.0\DeSerialize.csproj.CopyComplete
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\obj\Debug\net6.0\DeSerialize.dll
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\obj\Debug\net6.0\ref\DeSerialize.dll
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\obj\Debug\net6.0\DeSerialize.pdb
+C:\Users\Johnny\Desktop\Project-Dijkstra\DeSerialize\obj\Debug\net6.0\DeSerialize.genruntimeconfig.cache
