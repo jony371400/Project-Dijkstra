@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Johnny\\Desktop\\Serialize_DeSerialize\\Serialize_DeSerialize.csproj",
+      "projectUniqueName": "C:\\Users\\Johnny\\Desktop\\Project_Dijkstra\\Serialize_DeSerialize\\Serialize_DeSerialize.csproj",
       "projectName": "Serialize_DeSerialize",
-      "projectPath": "C:\\Users\\Johnny\\Desktop\\Serialize_DeSerialize\\Serialize_DeSerialize.csproj",
+      "projectPath": "C:\\Users\\Johnny\\Desktop\\Project_Dijkstra\\Serialize_DeSerialize\\Serialize_DeSerialize.csproj",
       "packagesPath": "C:\\Users\\Johnny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Johnny\\Desktop\\Serialize_DeSerialize\\obj\\",
+      "outputPath": "C:\\Users\\Johnny\\Desktop\\Project_Dijkstra\\Serialize_DeSerialize\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Johnny\\AppData\\Roaming\\NuGet\\NuGet.Config",
