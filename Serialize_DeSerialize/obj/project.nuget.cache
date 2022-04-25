@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GCTXJwm/0dQVWtqH5w6ZxhxEU2fNyCIskxwUiBKuTSQYezGm5NWUvbApH3cAvEy0u34v/Otl8rrSmViFeOajDA==",
+  "dgSpecHash": "T9eVfTzeg4Q3fJe8YYfVFXF14czIC1DztsSn1DXYuE5ak0+hE3t8EW+Xa7e6yr8WTfZFfY9pnuim0eXkR1cDng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Johnny\\Desktop\\Project_Dijkstra\\Serialize_DeSerialize\\Serialize_DeSerialize.csproj",
+  "projectFilePath": "/home/agv/Desktop/Project-Dijkstra/Serialize_DeSerialize/Serialize_DeSerialize.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
