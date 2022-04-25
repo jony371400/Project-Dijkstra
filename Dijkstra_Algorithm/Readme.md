@@ -1,14 +1,25 @@
 # Learn Dijkstra Algorithm
 
+> Procedule
 ```
-1. Array 
+1. JSON File to Object-Array(Data Model)
 
-2. Json Data Process
+2. Algorithm
 
-3. Points Set Up
+3. Save into QUEUE
 
-4. Rule Set Up
+```
 
-5. Algorithm Operation
+> Algorithm
+```
+1. Which point is closest to Startpoint
+
+2. How many point near by point
+
+3. Which path cost last
+
+4. put the point into queue and remove from Array
+
+5. begin from step-2
 
 ```

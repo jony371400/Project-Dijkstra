@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Serialize_DeSerialize/bin/Debug/net6.0/Serialize_DeSerialize.dll",
+            "program": "${workspaceFolder}/Dijkstra_Algorithm/bin/Debug/net6.0/Dijkstra_Algorithm.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Serialize_DeSerialize",
+            "cwd": "${workspaceFolder}/Dijkstra_Algorithm",
             "console": "internalConsole",
             "stopAtEntry": false
         },
