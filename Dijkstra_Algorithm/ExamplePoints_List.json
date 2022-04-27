@@ -1,0 +1,98 @@
+[
+  {
+    "Point_Id": 1,
+    "Point_Name": "P_A",
+    "NearPoints": {
+      "B": {
+        "Path": 10,
+        "Weight": 1
+      },
+      "C": {
+        "Path": 15,
+        "Weight": 1
+      }
+    }
+  },
+  {
+    "Point_Id": 2,
+    "Point_Name": "P_B",
+    "NearPoints": {
+      "A": {
+        "Path": 10,
+        "Weight": 1
+      },
+      "C": {
+        "Path": 15,
+        "Weight": 1
+      },
+      "D": {
+        "Path": 20,
+        "Weight": 1
+      }
+    }
+  },
+  {
+    "Point_Id": 3,
+    "Point_Name": "P_C",
+    "NearPoints": {
+      "A": {
+        "Path": 15,
+        "Weight": 1
+      },
+      "B": {
+        "Path": 15,
+        "Weight": 1
+      },
+      "D": {
+        "Path": 25,
+        "Weight": 1
+      }
+    }
+  },
+  {
+    "Point_Id": 4,
+    "Point_Name": "P_D",
+    "NearPoints": {
+      "B": {
+        "Path": 20,
+        "Weight": 1
+      },
+      "C": {
+        "Path": 25,
+        "Weight": 1
+      },
+      "F": {
+        "Path": 5,
+        "Weight": 1
+      }
+    }
+  },
+  {
+    "Point_Id": 5,
+    "Point_Name": "P_E",
+    "NearPoints": {
+      "C": {
+        "Path": 18,
+        "Weight": 1
+      },
+      "F": {
+        "Path": 10,
+        "Weight": 1
+      }
+    }
+  },
+  {
+    "Point_Id": 6,
+    "Point_Name": "P_F",
+    "NearPoints": {
+      "D": {
+        "Path": 5,
+        "Weight": 1
+      },
+      "E": {
+        "Path": 10,
+        "Weight": 1
+      }
+    }
+  }
+]

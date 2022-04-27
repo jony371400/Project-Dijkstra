@@ -4,31 +4,39 @@ namespace HelloWorld
 {
     class Program
     {
+        static public DataHandler? _DataHandler;
+        static public string? StartPos;
+        static public string? EndPos;
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Procedule Start!");
-            Console.WriteLine("--------------------------------------");
+            Console.WriteLine("------------------Procedule Start!------------------");
             Console.WriteLine("");
 
-            Points _Points = new Points();
-            _Points.ReadJsonFile();
-            _Points.ReadJsonData();
+            _DataHandler = new DataHandler();
+            _DataHandler.ReadJsonFile();
+
+            // Input();
+
+            Dijkstra _Dijkstra = new Dijkstra(_DataHandler);
+
+            // if (StartPos != null && EndPos != null)
+                _Dijkstra.Algotithm_Start(StartPos, EndPos);
 
             Console.WriteLine("");
-            Console.WriteLine("--------------------------------------");
-            Console.WriteLine("Procedule End!");
+            Console.WriteLine("------------------Procedule End!------------------");
         }
 
         // static void Input()
         // {
         //     #region Input Para
-        //     // Console.WriteLine("Input Your Start Pos : ");
-        //     // int StartPos = int.Parse(Console.ReadLine());
-        //     // Console.WriteLine("Your Start Pos : " + StartPos.ToString());
+        //     Console.Write("Input Your Start Pos : ");
+        //     StartPos = Console.ReadLine();
+        //     // Console.WriteLine("Your Start Pos : " + StartPos);
 
-        //     // Console.WriteLine("Input Your End Pos : ");
-        //     // int EndPos = int.Parse(Console.ReadLine());
-        //     // Console.WriteLine("Your End Pos : " + EndPos.ToString());
+        //     Console.Write("Input Your End Pos : ");
+        //     EndPos = Console.ReadLine();
+        //     // Console.WriteLine("Your End Pos : " + EndPos);
         //     #endregion
         // }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/agv/Desktop/Project-Dijkstra/Dijkstra_Algorithm/Dijkstra_Algorithm.csproj": {}
+    "/home/agv/Desktop/Johnny/Dev/C#/Dijkstra_Algorithm/Dijkstra_Algorithm.csproj": {}
   },
   "projects": {
-    "/home/agv/Desktop/Project-Dijkstra/Dijkstra_Algorithm/Dijkstra_Algorithm.csproj": {
+    "/home/agv/Desktop/Johnny/Dev/C#/Dijkstra_Algorithm/Dijkstra_Algorithm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/agv/Desktop/Project-Dijkstra/Dijkstra_Algorithm/Dijkstra_Algorithm.csproj",
+        "projectUniqueName": "/home/agv/Desktop/Johnny/Dev/C#/Dijkstra_Algorithm/Dijkstra_Algorithm.csproj",
         "projectName": "Dijkstra_Algorithm",
-        "projectPath": "/home/agv/Desktop/Project-Dijkstra/Dijkstra_Algorithm/Dijkstra_Algorithm.csproj",
+        "projectPath": "/home/agv/Desktop/Johnny/Dev/C#/Dijkstra_Algorithm/Dijkstra_Algorithm.csproj",
         "packagesPath": "/home/agv/.nuget/packages/",
-        "outputPath": "/home/agv/Desktop/Project-Dijkstra/Dijkstra_Algorithm/obj/",
+        "outputPath": "/home/agv/Desktop/Johnny/Dev/C#/Dijkstra_Algorithm/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/agv/.nuget/NuGet/NuGet.Config"
