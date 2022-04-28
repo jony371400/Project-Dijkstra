@@ -19,6 +19,10 @@ namespace HelloWorld
             // Console.WriteLine("Count : {0} , {1}" , algorithmModel.Count , dataHandler?.Point_L?.Count);
         }
 
+        void Generate_DataSet(){
+            
+        }
+
         public void Algotithm_Start(string startPos, string endPos)
         {
             Console.WriteLine("------------------Algotithm Start!------------------");
